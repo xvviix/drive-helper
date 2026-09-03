@@ -13,9 +13,6 @@
 
 فایل [`DriveHelper.bat`](DriveHelper.bat) را از همین مخزن دریافت کنید — یا از [صفحه‌ی وب](https://xvviix.github.io/drive-helper/) دکمه‌ی دانلود را بزنید.
 
-```bat
-e:\DriveHelper.bat
-```
 
 ## مستندات کامل
 
